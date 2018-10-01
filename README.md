@@ -1,6 +1,9 @@
-# Sites antigos do CEUE
-Sites antigos do CEUE é um dos repositórios do grupo [Histórico do CEUE](https://ceue.github.io/).
-Contém versões salvas de sites de gestões, chapas e comissões eleitorais antigas
-do CEUE (Centro dos Estudantes Universitários de Engenharia).
+# Arquivo histórico de sites relacionados ao CEUE
+Sites antigos relacionados CEUE contém versões salvas de sites de gestões,
+chapas e comissões eleitorais antigas do Centro dos Estudantes
+Universitários de Engenharia.
 
-Visite o site em <https://ceue.github.io/site-antigo/>
+É gerenciado pelo projeto [Histórico do CEUE](https://ceue.github.io/). Todas
+as alterações feitas são publicas
+
+**Visite o site em <https://ceue.github.io/site-antigo/>**.
