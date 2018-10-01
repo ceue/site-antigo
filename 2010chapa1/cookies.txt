@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.movimentohermes.com.br	TRUE	/	FALSE	1999999999	b5bf0d0ed7cba45e33885917a55a0079	h2v0vr0gn0rok4h7pik1jiumm6
+www.movimentohermes.com.br	TRUE	/	FALSE	1999999999	ja_pyro_tpl	ja_pyro
+

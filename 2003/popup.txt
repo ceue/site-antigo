@@ -1,0 +1,7 @@
+<script>
+function abrir() 
+{
+jan=window.open( 'pop2.htm','Jan','width=400,height=140');
+}
+setTimeout('abrir()', 1000);
+</script>

@@ -1,0 +1,21 @@
+HTTrack3.43-9+htsswf+htsjava launched on Mon, 06 Dec 2010 16:20:16 at http://sites.google.com/site/comissaoeleitoralceue/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "pt, en, *" http://sites.google.com/site/comissaoeleitoralceue/ -O1 D:\site\CE2010 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:22:34	Error: 	"Bad Request" (400) at link sites.google.com/site/comissaoeleitoralceue/_/tz (from sites.google.com/site/comissaoeleitoralceue/)
+16:22:34	Error: 	"Forbidden" (403) at link sites.google.com/site/comissaoeleitoralceue/system/app/pages/admin/revisions?wuid=wuid:gx:8193abc578e43d9 (from sites.google.com/site/comissaoeleitoralceue/documentos)
+16:22:36	Error: 	"Forbidden" (403) at link sites.google.com/site/comissaoeleitoralceue/system/app/pages/admin/revisions?wuid=wuid:gx:73e3316e445e65cb (from sites.google.com/site/comissaoeleitoralceue/lista-de-votantes)
+16:22:36	Error: 	"Forbidden" (403) at link sites.google.com/site/comissaoeleitoralceue/system/app/pages/admin/revisions?wuid=wuid:gx:555e3816b950e75b (from sites.google.com/site/comissaoeleitoralceue/recursos-de-chapas)
+16:22:46	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/resultados/Relatorio.pdf?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=25)
+16:22:46	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/resultados/Eleitores.pdf?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=25)
+16:22:50	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/documentos/EDITALCEUE.pdf?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=50)
+16:22:57	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/documentos/ANEXOI.docx?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=75)
+16:22:57	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/documentos/ANEXOII.docx?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=75)
+16:22:57	Error: 	"Not Found" (404) at link sites.google.com/site/comissaoeleitoralceue/documentos/ANEXOIII.docx?attredirects=0 (from sites.google.com/site/comissaoeleitoralceue/system/app/pages/recentChanges?offset=75)
+
+HTTrack Website Copier/3.43-9 mirror complete in 2 minutes 41 seconds : 94 links scanned, 83 files written (2816299 bytes overall) [2483468 bytes received at 15425 bytes/sec], 810866 bytes transfered using HTTP compression in 120 files, ratio 27%
+(10 errors, 0 warnings, 0 messages)

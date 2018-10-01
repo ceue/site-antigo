@@ -1,0 +1,53 @@
+input	{font-family:tahoma,sans-serif; font-size:11px;}
+TABLE	{font-family:tahoma,sans-serif; font-size:11px;border:0px}
+
+a:link       { color: #FF9933; text-decoration: none }
+a:visited    { color: #FF9933; text-decoration: none }
+a:active     { color: #D7D7E3; text-decoration: underline }
+a:hover      { color: #D7D7E3; text-decoration: underline }
+
+.mainnav     {
+	color: #ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+}
+.mainnav a:link { color: #ffffff; text-decoration: none; font-family: Arial; font-size: 9 px }
+.mainnav a:visited { color: #ffffff; text-decoration: none; font-family: Arial; font-size: 9 px }
+.mainnav a:active     { color: #ffffff; text-decoration: none }
+.mainnav a:hover      { color: #ffffff; text-decoration: none }
+
+.mai         { color: #336699;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;}
+.mai             { color: #999933; font-family:  Arial, Helvetica, sans-serif; font-size: 11px;  font-weight: bold }
+.mai a:link       { color: #999933; text-decoration: none }
+.mai a:visited    { color: #999933; text-decoration: none }
+.mai a:active     { color: #999933; text-decoration: underline }
+.mai a:hover      { color: #999933; text-decoration: underline}
+
+.smallt              { color: #999933; font-family:  Arial, Helvetica, sans-serif; font-size: 10px;  font-weight: normal }
+.smallt a:link       { color: #999933; text-decoration: none }
+.smallt a:visited    { color: #999933; text-decoration: none }
+.smallt a:active     { color: #999933; text-decoration: underline }
+.smallt a:hover      { color: #999933; text-decoration: underline}
+
+.newst              { color: #FF9933; font-family: Arial, Helvetica, sans-serif; font-size: 10px;  font-style: normal}
+.newst a:link       { color: #FF9933; text-decoration: none }
+.newst a:visited    { color: #FF9933; text-decoration: none }
+.newst a:active     { color: #ffffff; text-decoration: none }
+.newst a:hover      { color: #ffffff; text-decoration: none}
+
+.newst2              { color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 10px;  font-style: normal}
+.newst2 a:link       { color: #FFFFFF; text-decoration: none }
+.newst2 a:visited    { color: #FFFFFF; text-decoration: none }
+.newst2 a:active     { color: #FFFFFF; text-decoration: underline }
+.newst2 a:hover      { color: #FFFFFF; text-decoration: underline}
+.box {
+	font-family: tahoma, sans-serif;
+	font-size: 11px;
+	background-color: #666666;
+	color: #ff6633;
+
+}

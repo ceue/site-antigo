@@ -1,0 +1,24 @@
+HTTrack3.43-9+htsswf+htsjava launched on Mon, 06 Dec 2010 16:12:05 at http://sites.google.com/site/ceue2010/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "pt, en, *" http://sites.google.com/site/ceue2010/ -O1 D:\site\CE2009 +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:13:37	Error: 	"Bad Request" (400) at link sites.google.com/site/ceue2010/_/tz (from sites.google.com/site/ceue2010/)
+16:13:41	Error: 	"Forbidden" (403) at link sites.google.com/site/ceue2010/system/app/pages/admin/revisions?wuid=wuid:gx:65b9cea15c46a874 (from sites.google.com/site/ceue2010/documentos)
+16:13:41	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:5d07c7fc3b0fb290 not scanned (follow robots meta tag)
+16:13:41	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:3829a2b61407140f not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:2bdf133e544a7288 not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:6ce78e6ec21fe493 not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:3e07fd232fe702ea not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:6878ec78d2746b9f not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:74363211f73c7945 not scanned (follow robots meta tag)
+16:13:59	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:6ad9e36e5010c286 not scanned (follow robots meta tag)
+16:14:04	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:67ef5d9be4c71774 not scanned (follow robots meta tag)
+16:14:04	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:727d65306ec309f8 not scanned (follow robots meta tag)
+16:16:43	Warning: 	Link sites.google.com/site/ceue2010/system/errors/NodeNotFound?suri=wuid:gx:3e10e7c765b418a0 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.43-9 mirror complete in 4 minutes 38 seconds : 124 links scanned, 121 files written (6573332 bytes overall) [5550783 bytes received at 19966 bytes/sec], 1560982 bytes transfered using HTTP compression in 125 files, ratio 27%
+(2 errors, 11 warnings, 0 messages)

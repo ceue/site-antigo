@@ -1,0 +1,134 @@
+/* ------------------------------------------------------------------------
+# $JA#PRODUCT_NAME$ - Version $JA#VERSION$ - Licence Owner $JA#OWNER$
+# ------------------------------------------------------------------------
+# Copyright (C) 2004-2009 J.O.O.M Solutions Co., Ltd. All Rights Reserved.
+# @license - Copyrighted Commercial Software
+# Author: J.O.O.M Solutions Co., Ltd
+# Websites: http://www.joomlart.com - http://www.joomlancers.com
+# This file may not be redistributed in whole or significant part.
+# -------------------------------------------------------------------------*/
+
+/* Content Slider */
+#ja-contentsliderwrap {
+	margin: 0 0 20px 0;
+	padding: 0;
+	background: url(corner-br.html) no-repeat bottom right;
+}
+
+div.ja-wrap1 {
+	background: url(corner-bl.html) no-repeat bottom left;
+}
+
+div.ja-wrap2 {
+	background: url(corner-tr.html) no-repeat top right;
+}
+
+div.ja-wrap3 {
+	background: url(corner-tl.html) no-repeat top left;
+	padding: 10px 0 0 0;
+}
+
+.ja-contentslider {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	width: auto !important;
+	width: 100%;
+}
+
+#ja-contentsliderwrap div.moduletable {
+	margin: 0;
+	padding: 0 !important;
+}
+
+/* Content Slider Center */
+.ja-contentslider-center {
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+div.ja_slidetitle {
+	text-align: center;
+}
+
+div.ja_slidetitle a {
+	font-weight: bold;
+}
+
+div.ja_slideimages {
+}
+
+#ja-contentsliderwrap .ja_slideintro {
+	padding: 10px 5px 0;
+}
+
+div.ja-slidereadmore {
+	margin: 10px 0 0;
+}
+
+.ja-contentslider-center span {
+	width: 140px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.ja-contentslider-center img {
+	margin: 0;
+	padding: 0;
+	overflow:hidden;
+}
+
+/* Left + right */
+
+#ja-contentslider-left,
+#ja-contentslider-right {
+	float: left;
+	width: 30px;
+	position: relative;
+	
+}
+
+/* nur fuer Opera */
+
+#ja-contentslider-left,
+#ja-contentslider-right {
+	float: left;
+	width: 27px;
+	position: relative;
+}
+
+#ja-contentslider-left img,
+#ja-contentslider-right img {
+	position: absolute;
+	top: 30px;
+	right: 8px;
+}
+
+/* Clearfix */
+.clearfix:after {
+	clear: both;
+	display: block;
+	content: ".";
+	height: 0;
+	visibility: hidden;
+}
+
+* html > body .clearfix {
+	width: 100%;
+	display: block;
+}
+
+* html .clearfix {
+	height: 1%;
+}
+
+/* Firefox Scrollbar Hack - Do not remove */
+html {
+	margin-bottom: 1px;
+	height: 100%!important;
+	height: auto;
+}
+div.content_element {position:absolute;left:-999em;}

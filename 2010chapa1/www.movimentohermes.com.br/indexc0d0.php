@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Inicio</title>
+		<description>Movimento Hermes</description>
+		<link>http://www.movimentohermes.com.br/component/content/frontpage.html</link>
+		<lastBuildDate>Sun, 05 Dec 2010 13:50:23 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>pt-br</language>
+		<item>
+			<title>O que já fizemos pelo CEUE em 2009~2010</title>
+			<link>http://www.movimentohermes.com.br/component/content/article/o-que-ja-fizemos-pelo-ceue-em-20092010.html</link>
+			<guid>http://www.movimentohermes.com.br/component/content/article/o-que-ja-fizemos-pelo-ceue-em-20092010.html</guid>
+			<description><![CDATA[<div align="center"><object width="600" height="360"><param name="movie" value="http://www.youtube.com/v/qvTyRdRHjJw?fs=1&amp;hl=pt_BR&amp;color1=0x006699&amp;color2=0x54abd6"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/qvTyRdRHjJw?fs=1&amp;hl=pt_BR&amp;color1=0x006699&amp;color2=0x54abd6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="600" height="360"></embed></object></div>
+<p></p>
+<p> Comprove você mesmo que as ações ditas no video e outras mais realmente ocorreram feitas pela Hermes:<br />
+<a href="http://www.movimentohermes.com.br/acoes/realizadas.html" target="_blank">http://www.movimentohermes.com.br/acoes/realizadas.html</a></p>
+<p>Para uma visão geral de todos os projetos, veja <a href="http://www.movimentohermes.com.br/tudo" target="_blank">http://www.movimentohermes.com.br/tudo</a></p>
+<p>&nbsp;</p>]]></description>
+			<author>emerson@webdesign.eng.br (Administrator)</author>
+			<category>frontpage</category>
+			<pubDate>Wed, 01 Dec 2010 04:09:41 +0000</pubDate>
+		</item>
+		<item>
+			<title>Resumo das ações de do Movimento Hermes na Escola de Engenharia</title>
+			<link>http://www.movimentohermes.com.br/projetos/resumo-das-acoes-de-do-movimento-hermes-na-escola-de-engenharia.html</link>
+			<guid>http://www.movimentohermes.com.br/projetos/resumo-das-acoes-de-do-movimento-hermes-na-escola-de-engenharia.html</guid>
+			<description><![CDATA[<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=mhee" target="_blank">#mhee</a>] Resumo das ações de do Movimento Hermes na Escola de Engenharia</h3>
+<h2>Diretoria Acadêmica</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=saieng" target="_blank">#saieng</a>] <a href="http://www.movimentohermes.com.br/projetos/semana-academica-integrada-da-engenharia.html">Semana Acadêmica Integrada da Engenharia</a></h3>
+<p style="padding-left: 30px;">Em parceria com subcentros, dar suporte total para organização da semana acadêmica de cada um, além de viabilizar palestras ou outros eventos genéricos, interessantes a qualquer engenharia, e divulgar de forma fácil todos os eventos, mantendo um calendário único de divulgação das atividades.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=pameng" target="_blank">#pameng</a>] <a href="http://www.movimentohermes.com.br/projetos/programa-de-apoio-a-mobilidade-entre-engenharias.html">Programa de apoio a mobilidade entre Engenharias</a></h3>
+<p style="padding-left: 30px;">Catalogar e divulgar o que já existe para troca de alunos interessados em trocar de curso entre engenharias e, em um segundo momento, viabilizar uma facilitação disto, além de integrar um programa de conscientização da função de cada engenharia.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=gruposdeestudoceue" target="_blank">#gruposdeestudoceue</a>] <a href="http://www.movimentohermes.com.br/projetos/grupos-de-estudos-ceue.html" target="_blank">Grupos de Estudos CEUE</a></h3>
+<p style="padding-left: 30px;">Usar salas de aulas ociosas da Escola de Engenharia  em tarde/noites anteriores de certas disciplinas comuns na engenharia (e as com maior indice de repetencia) para estimular a formação de <strong>grupos de estudo</strong> de alunos interessados, com apoio de material de suporte (listas de excercicios, livros, provas anteriores...), ajuda de colaboradores espontâneos e, ainda que seja fácil conseguir ajuda dos monitores das disciplinas, focar em grupos de estudo, não monitoria.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=feeng" target="_blank">#feeng</a>] <a href="http://www.movimentohermes.com.br/projetos/fomento-a-encontro-de-estudantes-de-engenharia.html" target="_blank">Fomento a encontro de estudantes de engenharia</a></h3>
+<p style="padding-left: 30px;">Viabilizar, através de organização interna e catalogação destas informações, encontro de estudantes regionais ou nacionais, bem como facilitar o transporte a estes eventos quando não forem em Porto Alegre.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=rdceue" target="_blank">#rdceue</a>] <a href="http://www.movimentohermes.com.br/projetos/rodada-de-debates.html">Rodada de debates do CEUE</a></h3>
+<p style="padding-left: 30px;">Como forma de incitar os alunos a debaterem sobre assuntos correntes em engenharia, a rodada de debates tem como objetivo trazer atualidades da engenharia, fazer os alunos trabalharem sua comunicação e, consequentemente, melhor sua forma de agir em grupo.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueajudaaescolherteucurso" target="_blank">#ceuemelhoriadelaboratorios]</a> <a href="http://www.movimentohermes.com.br/projetos/apoio-a-criacao-e-modernizacao-de-laboratorios.html" target="_blank">Apoio a criação e modernização de laboratórios</a><a href="http://www.movimentohermes.com.br/projetos/apoio-a-criacao-e-modernizacao-de-laboratorios.html" target="_blank"></a></h3>
+<p style="padding-left: 30px;">É de grande importância ter bons laboratórios na engenharia. Trazendo um pensamento antigo, recorrente do início da Escola de Engenharia, visamos a melhoria e a criação de novos laboratórios para a engenharia, por meio de parcerias internas pela alocação de recursos da UFRGs e por parcerias externas, na montagem de laboratórios profissionais.</p>
+<h2>Diretoria de Integração</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=recepcaodosbixosdaee" target="_blank">#recepcaodosbixosdaee</a>] <a href="http://www.movimentohermes.com.br/projetos/recepcao-dos-calouros-da-escola-de-engenharia.html" target="_blank">Recepção dos Calouros da Escola de Engenharia</a></h3>
+<p style="padding-left: 30px;">Receber e dar todo o suporte aos novos alunos da Escola de Engenharia, instruindo sobre moradia, festas, escolha das disciplinas e outras informações básicas para a sobrevivência na UFRGS.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueteintegra" target="_blank">#ceueteintegra</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-te-integra.html">CEUE Te Integra</a></h3>
+<p style="padding-left: 30px;">Reúne ações referentes a integração das pessoas. Campeonatos, festas, manutenção e melhoramento da sala de jogos, e afins.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceuerockfestival" target="_blank">#ceuerockfestival</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-rock-festival.html">CEUE Rock Festival</a></h3>
+<p style="padding-left: 30px;">Circuito de festas com intuito de abrir espaço para as bandas formadas na universidade, culminando no vendo do prêmio Engenharia Rocks!</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=olimpiadassedencatiasceue" target="_blank">#olimpiadassedencatiasceue</a>] <a href="http://www.movimentohermes.com.br/projetos/olimpiadas-sedentarias-do-ceue.html">Olimpíadas sedentárias do CEUE</a></h3>
+<p style="padding-left: 30px;">Continuação das tradicionais Olimpíadas Sedentárias do CEUE, aonde esportes sedentáriamente olímpicos são praticados! Desde sinuca ao às extremamente agitado ping-pong!</p>
+<h2>Diretoria de Marketing e Relações Institucionais</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueapoiateusubcentro" target="_blank">#ceueapoiateusubcentro</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-apoia-teu-subcentro.html">CEUE Apoia Teu Subcentro</a></h3>
+<p style="padding-left: 30px;">Colaborar e integrar ações úteis aos subcentros. É extremamente vital que, além de trabalhar para os estudantes, o CEUE esteja a serviço dos Subcentros em colaboração constante.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=gcmeengbr" target="_blank">#gcmeengbr</a>] <a href="http://www.movimentohermes.com.br/projetos/gerenciamento-de-contatos-com-cas-e-das-de-engenharia-do-brasil.html">Gerenciamento de contatos com CAs e DAs de Engenharia do Brasil</a></h3>
+<p style="padding-left: 30px;">Descobrir, catalogar e divulgar dados de contato de centros e diretórios acadêmicos de engenharias do Brasil, de modo a servir de suporte a facilitação de troca de informações e ajudas entre o movimento estudantil, e viabilizar outros projetos com maior facilidade, como os encontros de estudantes.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueteemprega" target="_blank">#ceueteemprega</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-te-emprega.html">CEUE Te Emprega</a></h3>
+<p style="padding-left: 30px;">Obter e divulgar empregos, estágios, concursos públicos e bolsas para alunos e ex-alunos da Escola de Engenharia.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=riisceue" target="_blank">#riisceue</a>] <a href="http://www.movimentohermes.com.br/projetos/relacoes-institucionais-industriais-e-sindicais-do-ceue.html" target="_blank">Relações Institucionais, Industriais e Sindicais do CEUE</a></h3>
+<p style="padding-left: 30px;">Manter e cultivar uma boa relação com entidades inter-dependentes da formação em engenharia, com objetivo de viabilizar os projetos e as ações que estamos propondo.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueajudaaescolherteucurso" target="_blank">#ceueajudaaescolherteucurso</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-ajuda-a-escolher-teu-curso.html" target="_blank">CEUE ajuda a escolher teu curso</a></h3>
+<p style="padding-left: 30px;">Projeto de extensão que visa divulgar o que é engenharia, diferenças para os demais   cursos, e para os respectivos cursos, como meio de fomentar a entrada de   alunos conscientes do que querem escolher no vestibular.  Por meios de visitas e palestras para alunos de ensino médio e profissionalizante, conscientizar a profissão também dentro da própria universidade, como parte do <a href="http://www.movimentohermes.com.br/projetos/programa-de-apoio-a-mobilidade-entre-engenharias.html">Programa de apoio a mobilidade entre Engenharias</a>.</p>
+<h2>Diretoria Social</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueapoiatuamoradia" target="_blank">#ceueapoiatuamoradia</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-apoia-tua-moradia.html">CEUE apóia tua moradia</a></h3>
+<p style="padding-left: 30px;">Projeto que visa divulgar, em especial aos calouros, diversas possibilidades de moradia e colaborar para facilitar a moradia em conjunto com colegas, além de ver meios de logística e provável apoio financeiro de colaboradores para custear a manutenção de casas de estudantes sem fins lucrativos aonde alunos da escola de engenharia estiverem (CEUPA, CEUACA, JUC7 e afins).</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=republicadoceue" target="_blank">#republicadoceue</a>] <a href="http://www.movimentohermes.com.br/projetos/republica-do-ceue.html" target="_blank">República do CEUE</a></h3>
+<p style="padding-left: 30px;">Fomentar a criação de uma república de estudantes da Escola de Engenharia, gerenciada pelos moradores, quer seja em primeiro momento através de espaço físico alugado ou comprado, quer seja mais tarde em realmente trabalhar para contruir do zero um prédio.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=rpee" target="_blank">#rpee</a>] <a href="http://www.movimentohermes.com.br/projetos/resgate-do-passado-da-escola-de-engenhariaresgate-do-passado-da-escola-de-engenharia.html" target="_blank">Resgate do Passado da Escola de Engenharia</a></h3>
+<p>Descobrir, catalogar e divulgar amplamente o passado da Escola de Engenharia e do CEUE, para dar base aos estudantes, professores e servidores de hoje de onde viemos, e, com respeito ao passado, se perguntar: para aonde queremos ir?</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=csaee" target="_blank">#csaee</a>] <a href="http://www.movimentohermes.com.br/projetos/conscientizacao-social-de-alunos-da-escola-de-engenharia.html" target="_blank">Conscientização Social de Alunos da Escola de Engenharia</a></h3>
+<p style="padding-left: 30px;">Reunir ações de fomento a conscientização social dos estudantes, em respeito a sociedade em que vivemos.</p>
+<h2>Diretoria de Projetos</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=apceue" target="_blank">#apceue</a>] <a href="http://www.movimentohermes.com.br/projetos/apoio-a-novos-projetos-do-ceue.html" target="_blank">Apoio a novos projetos do CEUE</a></h3>
+<p style="padding-left: 30px;">Reunir um modo de agir padrão para apoiar qualquer novo projeto, de modo que qualquer nova ação tenha apoio para viabilidade prática e financeira, além de ser encaminhada para demais pessoas interessadas para sua realização.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=oficinadeprojetos" target="_blank">#oficinadeprojetos</a>] <a href="http://www.movimentohermes.com.br/projetos/oficina-de-projetos.html" target="_blank">Oficina de Projetos</a></h3>
+<p style="padding-left: 30px;">Prover meios de a criatividade dos estudantes, em especial de exatas da UFRGS, com apoio, mas não sob direção de professores, tenham infraestrutura, ferramentas e algum apoio financeiro contrução de protótipos, além de promover uma estreita relação entre o mercado de trabalho com o que é desenvolvido na Oficina de Projetos, como meio de dar visibilidade aos participantes e garantir-lhes que, com boas ideias, seu emprego estará garantido antes mesmo de se formar.</p>
+<h3>[<a href="http://search.twitter.com/search?q=%E2%8C%A9=pt&tag=fliperamanoceue" target="_blank">#fliperamanoceue</a>] <a href="http://www.movimentohermes.com.br/projetos/fliperama-no-ceue.html" target="_blank">Fliperama no CEUE</a></h3>
+<p style="padding-left: 30px;">Criar do zero, por esforços dos próprios estudantes da Escola de Engenharia, um Fliperama, tanto como estimulo a criatividade, como para a diversão dos alunos que frequentam o CEUE.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=dsceue" target="_blank">#dsceue</a>] <a href="http://www.movimentohermes.com.br/projetos/desenvolvimento-de-software.html" target="_blank">Desenvolvimento de Software do CEUE</a></h3>
+<p style="padding-left: 30px;">Tendo em vista que o programa da Hermes é focado no gerenciamento de informações, este projeto visa reunir ações para desenvolvimento de tecnologia própria para organização destas ações.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=graficadoceue" target="_blank">#graficadoceue</a>] <a href="http://www.movimentohermes.com.br/projetos/grafica-do-ceue.html">Gráfica do CEUE</a></h3>
+<p style="padding-left: 30px;">Reativar a histórica gráfica do CEUE, para servir tanto como fonte de renda, como uma importante aliada aos interesses da entidade, focada na utilidade junto aos estudantes de engenharia e da própria UFRGS, porém de modo que fique sob direção do CEUE, para sempre.</p>
+<h2>Secretaria Unificada</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=frceue" target="_blank">#frceue</a>] <a href="http://www.movimentohermes.com.br/projetos/fontes-de-renda-do-ceue.html">Fontes de Renda do CEUE</a></h3>
+<p style="padding-left: 30px;">Otimizar as fontes de rendas existentes, e procurar novas fontes, focado em desonerar ao máximo o próprio estudante da Escola de Engenharia, e viabilizar que tais retornos além de financeiros a entidade, sejam obtidos por ações que gerem conhecimento e experiência técnica aos participantes, util mais tarde na vida profissional.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=rgceue" target="_blank">#rgceue</a>] <a href="http://www.movimentohermes.com.br/projetos/relatorias-de-gestao-do-ceue.html">Relatorias de Gestão do CEUE</a></h3>
+<p>Como meio de tornar claro o processo de gestão, as relatorias são a forma mais precisa de que os estudantes estejam inteirados do que está acontecendo em seu Centro Acadêmico.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=gpsceue" target="_blank">#gpsceue</a>] <a href="http://www.movimentohermes.com.br/projetos/gerenciamento-de-prestadores-de-servico-do-ceue.html" target="_blank">Gerenciamento de Prestadores de Serviço do CEUE</a></h3>
+<p style="padding-left: 30px;">Gerenciar de forma relativamente publica a relação com prestadores de produtos e serviços, de modo que, pela divulgação e troca de informações com parceiros, sempre tenha-se os mais baratos e eficientes prestadores, e estes, ao verem que ao ser bons prestadores atingem uma rede de compradores maior, melhorem e até barateiem seus preços.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=wikigme" target="_blank">#wikigme</a>] <a href="http://www.movimentohermes.com.br/projetos/divulgacao-de-gerenciamento-de-entidades-academicas.html">Wiki GME: Divulgação de Gerenciamento de Entidades Acadêmicas</a></h3>
+<p style="padding-left: 30px;">Continuar o bom serviço iniciado na wiki <a href="http://www.gme.ceue.eng.br/" target="_blank">http://www.gme.ceue.eng.br/</a>, que consistem descobrir, catalogar e divulgar informações de como gerenciar uma entidade acadêmica, com informações de organização interna, de eventos, legislação aplicável, fontes de renda e muito mais. É uma wiki, idealizada e mantida pela Hermes que visa o melhoramento em nível nacional de CAs e DAs, além de garantir que as próximas gestões do CEUE saibam como nós fizemos, e garantir que não haja mais gestões medíocres.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=caee" target="_blank">#caee</a>] <a href="http://www.movimentohermes.com.br/projetos/cadastro-dos-alunos-e-ex-alunos-da-escola-de-engenharia.html" target="_blank">Cadastro dos Alunos e Ex-alunos da Escola de Engenharia</a></h3>
+<p style="padding-left: 30px;">Descobrir, catalogar e publicar a lista de ex-alunos da Escola de Engenharia, ver meios de deixar claro aqueles que deixaram sua marca na história e, aos que ainda estão vivos, fomentar encontros de turmas e a criação de um anuário de alunos online.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=gceceue" target="_blank">#gceceue</a>] <a href="http://www.movimentohermes.com.br/projetos/gerenciamento-de-contatos-externos-do-ceue-e-subcentros.html" target="_blank">Gerenciamento de Contatos Externos do CEUE e Subcentros</a></h3>
+<p style="padding-left: 30px;">Obter, catalogar e gerenciar contatos externos e manter uma estreita relação com subcentros, como meio de fomentar a troca de informações, em especial do CEUE para o subcentro. Tais contatos ajudarão desde obtenção de palestrantes para eventos, até mesmo doadores, em especial aqueles que estiverem no cadastro de Alunos e Ex-alunos da Escola de Engenharia gerenciado pelo CEUE.</p>
+<h2>Presidência</h2>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceuepvp" target="_blank">#ceuepvp</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-pre-vestibular-popular.html">CEUE Pré-vestibular Popular</a></h3>
+<p style="padding-left: 30px;">Através da experiência em 2009, otimizar o funcionamento do Pré-vestibular mantido pelo CEUE, e atacar de forma incisiva os maisores problemas, em especial a confecção de material didático, a falta de professores e afins.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceueatpvp" target="_blank">#ceueatpvp</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-apoia-teu-pre-vestibular-popular.html">CEUE Apoia Teu Pré-vestibular Popular</a></h3>
+<p style="padding-left: 30px;">Usar a mesma lógica aplicada na organização interna do CEUE Pré-vestibular para, em parceria com outros pré-vestibulares da região, em especial os vinculados a estudantes da UFRGS, viabilizar meios de ajuda mútua, em especial na padronização de material didárico, divulgação, e fontes de rendas alternativas.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=ceuepdme" target="_blank">#ceuepdme</a>] <a href="http://www.movimentohermes.com.br/projetos/ceue-procura-os-direitos-do-movimento-estudantil.html" target="_blank">CEUE procura os direitos do Movimento Estudantil</a></h3>
+<p style="padding-left: 30px;">Ao ser atuante em 2009, a Hermes percebeu que muito se perde ao não se saber seus direitos. Este projeto visa através descobrir até aonde o estudante tem direito frente a professores e a instituições de ensino, além de em especial ver o que centros e diretórios acadêmicos podem fazer e garantir sua autonomia.</p>
+<h3>[<a href="http://search.twitter.com/search?q=&lang=pt&tag=jornaldoceue" target="_blank">#jornaldoceue</a>] <a href="http://www.movimentohermes.com.br/projetos/jornal-do-ceue.html" target="_blank">Jornal do CEUE</a></h3>
+<p style="padding-left: 30px;">Divulgar as ações tomadas na Escola de Engenharia, novidades no mundo da Engenharia, problemas a serem solucionados e divulgar as ações que estão sendo tomadas em nome doe estudantes.</p>]]></description>
+			<author>emerson@webdesign.eng.br (Administrator)</author>
+			<category>frontpage</category>
+			<pubDate>Fri, 12 Nov 2010 10:44:43 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

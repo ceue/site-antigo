@@ -1,0 +1,31 @@
+/*
+# ------------------------------------------------------------------------
+# JA Pyro template for Joomla 1.5
+# ------------------------------------------------------------------------
+# Copyright (C) 2004-2010 JoomlArt.com. All Rights Reserved.
+# @license - PHP files are GNU/GPL V2. CSS / JS are Copyrighted Commercial,
+# bound by Proprietary License of JoomlArt. For details on licensing, 
+# Please Read Terms of Use at http://www.joomlart.com/terms_of_use.html.
+# Author: JoomlArt.com
+# Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+# Redistribution, Modification or Re-licensing of this file in part of full, 
+# is bound by the License applied. 
+# ------------------------------------------------------------------------
+*/
+
+body.contentpane {
+	background: #fff !important;
+	font-size: 10pt;
+	line-height: 1.5;
+	margin: 0;
+	margin: 1em 2em;
+	width: auto; /* Printable Page */
+}
+
+/* Hide un-necessary elements ---*/
+.ja-thumbnailwrap ul.nav, .ja-social-bookmarking {
+	display: none;
+}
+
+/* K2 Component */
+body.contentpane .blogList { background: none; }

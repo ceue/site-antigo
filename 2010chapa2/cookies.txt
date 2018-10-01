@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.blogger.com	TRUE	/	FALSE	1999999999	blogger_TID	d176ca6e5d8c1b5f
+ceuechapa2.blogspot.com	TRUE	/	FALSE	1999999999	blogger_TID	c5f69260e2115cd5
+

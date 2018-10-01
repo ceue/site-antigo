@@ -1,0 +1,364 @@
+/*
+# ------------------------------------------------------------------------
+# JA Pyro template for Joomla 1.5
+# ------------------------------------------------------------------------
+# Copyright (C) 2004-2010 JoomlArt.com. All Rights Reserved.
+# @license - PHP files are GNU/GPL V2. CSS / JS are Copyrighted Commercial,
+# bound by Proprietary License of JoomlArt. For details on licensing, 
+# Please Read Terms of Use at http://www.joomlart.com/terms_of_use.html.
+# Author: JoomlArt.com
+# Websites:  http://www.joomlart.com -  http://www.joomlancers.com
+# Redistribution, Modification or Re-licensing of this file in part of full, 
+# is bound by the License applied. 
+# ------------------------------------------------------------------------
+*/
+
+.ja-slidewrap {
+	background: url(../images/sl-slidewrap-bg.gif) repeat-x top left;
+	border: none !important;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.ja-slidewrap .box { height: 15px; position: absolute; width: 15px; }
+
+.ja-slidewrap .tl, .ja-slidewrap .tr, .ja-slidewrap .br, .ja-slidewrap .bl { background-repeat: no-repeat; position: absolute; }
+
+.ja-slidewrap .tl { background-position: left top; left: 0; top: 0; }
+
+.ja-slidewrap .tr { background-position: right top; right: 0; top: 0; }
+
+.ja-slidewrap .br { background-position: right bottom; bottom: 0; right: 0; }
+
+.ja-slidewrap .bl { background-position: left bottom; bottom: 0; left: 0; }
+
+.ja-slidewrap .tl, .ja-slidewrap .tr, .ja-slidewrap .bl, .ja-slidewrap .br {
+	background-image: url(../images/sl-corner.gif);
+}
+
+.ja-slidewrap .sl-deco {
+	background: url(../images/sl-deco.png) no-repeat top left;
+	height: 192px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 603px;
+}
+
+.ja-slide-main-wrap {
+	overflow: hidden;
+	position: relative;
+}
+
+.ja-slide-main {
+	position:relative;
+	z-index: 1;
+}
+
+.ja-slide-item {
+	display: block;
+	height: 280px !important;
+	left: auto !important;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	position: absolute;
+	right: 0 !important;
+	top: 60px !important;
+	width: 360px !important;
+}
+
+.ja-slide-item img {
+	background: none;
+}
+
+.ja-slide-thumbs-wrap {
+	background: url(../images/sl-sep.gif) no-repeat left top !important;
+	clear: both;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0 1px;
+	position: relative;
+}
+
+.but_prev, .but_next {
+	background: #000;
+	position: absolute;
+	top: 0;
+	z-index: 99;
+}
+
+.but_prev {}
+
+.but_prev:hover, .but_next:hover {
+	cursor: pointer;
+}
+
+.but_next {}
+
+.maskDesc {
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	z-index: 100;
+	left: 0 !important;
+}
+
+.maskDesc .ja-slide-desc {
+	color: #fff;
+	font-size: 100%;
+	padding: 55px 0 0 60px;
+	width: 480px;
+	height: 280px;
+}
+
+.maskDesc .ja-slide-desc a,
+.maskDesc .ja-slide-desc a:hover,
+.maskDesc .ja-slide-desc a:focus,
+.maskDesc .ja-slide-desc a:active {
+	border: none !important;
+	text-decoration: none !important;
+}
+
+.maskDesc .ja-slide-desc a span {
+	color: #fff;
+	display: none;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 350%;
+	font-weight: normal;
+}
+
+.maskDesc .ja-slide-desc br { display: none; }
+
+.maskDesc .ja-slide-desc h3 {
+	margin: 0;
+	padding: 0;
+}
+
+.maskDesc .ja-slide-desc h4 {
+	color: #fff;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 300%;
+	font-weight: normal;
+	line-height: 1;
+	text-transform: none;
+	text-shadow: -1px -1px #0e4071;
+}
+
+.maskDesc .ja-slide-desc h5 {
+	color: #9dbcdb;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 150%;
+	font-weight: normal;
+	line-height: 1;
+	margin-top: 10px;
+	text-transform: none;
+	text-shadow: -1px -1px #0e4071;
+}
+
+.maskDesc .ja-slide-desc p {
+	margin: 15px 0;
+}
+
+.maskDesc .ja-slide-desc p a { color: #fff; }
+
+.maskDesc a.readon {
+	background: url(../images/sl-readon-bg.gif) no-repeat top left;
+	color: #333;
+	display: block;
+	float: left;
+	font-family: Georgia, Arial, Helvetica, sans-serif;
+	font-size: 92%;
+	font-weight: bold;
+	padding: 6px 16px;
+	text-transform: uppercase;
+	text-shadow: -1px 1px #fff;
+}
+
+.maskDesc a.readon:hover,
+.maskDesc a.readon:active,
+.maskDesc a.readon:focus {
+	color: #800;
+	text-shadow: -1px 1px #fff;
+}
+
+.ja-slide-buttons {
+	z-index: 900;
+}
+
+.ja-slide-buttons span {
+	background: #000;
+	color: #fff;
+	cursor: pointer;
+	display: block;
+	float: left;
+	margin-right: 5px;
+	padding: 2px 5px;
+}
+
+/* SCROLL LEFT
+-----------------------------------------*/
+/* Horizontal ---*/
+.ja-vertical_right {
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	top: 0;
+	z-index: 100;
+}
+
+/* horizontal ---*/
+.ja-vertical_left {
+	left: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	z-index: 100;
+}
+
+.ja-vertical_right .active {}
+
+.ja-vertical_left .active {}
+
+.ja-slide-right {
+	margin-left: auto;
+	right: 0;
+	top: 0;
+	float:right
+}
+
+.ja-slide-thumbs, .ja-slide-thumbs-mask, .ja-slide-thumbs-handles {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+}
+
+.ja-articles .ja-slide-thumbs-handles {
+	/*
+	background: #fff;
+	filter: alpha(opacity=0);
+	opacity: 0.00; 
+	*/
+}
+
+.ja-slide-descs {
+	display: none;
+}
+
+.ja-slide-thumb, .ja-slide-thumbs-handles span {
+	cursor: pointer;
+	display: block;
+	float: left;
+	margin: 0;
+}
+
+/* horizontal  */
+.ja-vertical_right .ja-slide-thumb,
+.ja-vertical_right .ja-slide-thumbs-handles span {
+	float: none!important;
+}
+
+.ja-vertical_left .ja-slide-thumb,
+.ja-vertical_left .ja-slide-thumbs-handles span {
+	float: none!important;
+}
+
+.ja-slide-thumbs-wrap .ja-slide-thumbs .ja-slide-thumb {}
+
+.ja-slide-thumbs-handles span {}
+
+.ja-slide-thumbs .active {
+	background: url(../images/sl-thumb-active.gif) no-repeat top center;
+}
+
+.ja-slide-thumbs-wrap .active .ja-slide-thumb-inner {}
+
+.ja-slide-thumbs-mask-left,
+.ja-slide-thumbs-mask-right,
+.ja-slide-thumbs-mask-center {
+	float: left;
+}
+
+.ja-vertical_right .ja-slide-thumbs-mask-left,
+.ja-vertical_right .ja-slide-thumbs-mask-right,
+.ja-vertical_right .ja-slide-thumbs-mask-center {
+	display: block;
+	float: none;
+}
+
+.ja-vertical_left .ja-slide-thumbs-mask-left,
+.ja-vertical_left .ja-slide-thumbs-mask-right,
+.ja-vertical_left .ja-slide-thumbs-mask-center {
+	display: block;
+	float: none;
+}
+
+.ja-slide-thumbs { padding: 0 0 0 1px; }
+
+.ja-slide-thumb-inner {
+	background: url(../images/sl-sep.gif) no-repeat top right !important;
+	border: none;
+	color: #9dbcdb;
+	height: 100%;
+	margin: 0;
+	padding: 0 1px 0 0;
+}
+
+.ja-vertical_left .ja-slide-thumb-inner {
+	margin-left: 0px;
+	margin-right: 19px;
+}
+
+.ja-slide-thumbs-wrap .ja-slide-thumb-inner h3 {
+	color: #9dbcdb;
+	font-style: normal;
+	font-size: 150%;
+	font-weight: normal;
+	margin: 0px !important;
+	padding: 25px 0 0 !important;
+	text-align: center;
+	text-transform: uppercase;
+	height: 100%;
+	text-shadow: -1px -1px #0e4071;
+}
+
+.ja-slide-thumbs-wrap .active .ja-slide-thumb-inner h3 {
+	color: #fff !important;
+	text-shadow: -1px -1px #0e4071;
+}
+
+.ja-slide-thumb-inner img {
+	margin: 15px 10px 0 0;
+}
+
+.ja-slide-thumb-inner .ja-createdate { }
+
+.active .ja-slide-thumb-inner {
+	border: none;
+	color: #fff;
+}
+
+.active .ja-slide-thumb-inner img {}
+
+.ja-slide-thumbs-mask-left,
+.ja-slide-thumbs-mask-right,
+.ja-slide-thumbs-mask-center {
+	float: left;
+}
+
+.ja-slide-thumbs-mask-left, .ja-slide-thumbs-mask-right {
+	background: #000;
+}
+
+.ja-slide-mask {
+	height: 300px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 660px;
+	z-index: 3;
+}
+
+.maskDesc a.readon { border: none !important; }
