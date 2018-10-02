@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+show_downloads: true
 
-title: Sites antigos do CEUE
-description: Lista de sites antigos do CEUE (Centro de Estudantes Universitários de Engenharia) gerenciado pelo Histórico do CEUE
+title: Sites históricos CEUE
+description: Arquivo público de sites antigos relacionados ao CEUE (Centro de Estudantes Universitários de Engenharia)
